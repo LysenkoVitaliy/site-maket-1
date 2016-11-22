@@ -1,0 +1,167 @@
+ 
+		nav {height: "1240";
+	        background-image:url(../images/back.jpg);
+	        background-repeat:no-repeat;
+	        background-size: 100%;
+	        padding-top: 170px;
+	        margin-bottom: 0px;}
+        h1 {font-family: 'Open Sans Light';
+            font-size: 250%;
+            color: #521a66;    
+            text-align: center;} 
+        h2 {font-family: 'ProximaNova Regular'; 
+            font-size: 80%;
+            color: #521a66;
+            text-align: center;}
+        h3 {font-family: 'Open Sans Light';
+            font-size: 180%;
+            color: #ffffff;    
+            text-align: center;
+            margin-top: 600px;}
+        h4  {font-family: 'Open Sans Light';
+            font-size: 80%;
+            color: #ffffff;    
+            text-align: center;
+            margin-top: 5px;}
+        #button {font-family: 'ProximaNova Bold'; 
+            font-size: 90%;
+            color: #ffffff;
+            text-align: center;
+            border: 4px solid #40c4c8;
+            padding: 10px;
+            background-color: #40c4c8;
+            margin-left: 590px;
+            margin-right: 100px;
+            width: 100px;}
+        #button2 {font-family: 'ProximaNova Bold'; 
+            font-size: 90%;
+            color: #ffffff;
+            text-align: center;
+            border: 4px solid #40c4c8;
+            padding: 10px;
+            background-color: #40c4c8;
+            margin-left: 1150px;
+            margin-right: 90px;
+            width: 100px;}
+        h5 {font-family: 'Open Sans Light';
+            font-size: 180%;
+            color: #ffffff;    
+            text-align: right;
+            padding-right: 25px;
+            padding-top: 200px;
+            margin-top: 0px;}
+        h6  {font-family: 'Open Sans Light';
+            font-size: 80%;
+            color: #ffffff;    
+            text-align: right;
+            padding-right: 25px;}
+        #image_caption {font-family: 'Arial Regular';
+            font-size: 40%;
+            color: #ffffff;
+            text-align: right;
+            position: relative;
+            margin-top: 300px;
+            padding-right: 25px;}
+		.back {height: "1240";
+            background-image:url(../images/frame.jpg);
+            background-repeat:no-repeat;
+            background-size: 100%;}
+		#titles4 {height: "1240";
+            background-color: #ffffff;
+            background-size: 100%;}
+        .title {font-family: 'Open Sans Light'; 
+            font-size: 150%;
+            color: #521a66;
+            font-weight: bold;}
+        #button3 {font-family: 'ProximaNova Bold'; 
+            font-size: 90%;
+            color: #ffffff;
+            text-align: center;
+            border: 4px solid #40c4c8;
+            padding: 10px;
+            background-color: #40c4c8;
+            width: 100px;}
+        #button4 {font-family: 'ProximaNova Bold'; 
+            font-size: 90%;
+            color: #ffffff;
+            text-align: center;
+            border: 4px solid #40c4c8;
+            padding: 10px;
+            background-color: #40c4c8;
+            width: 100px;}
+        .undertitle {font-family: 'Lato Regular';
+            font-size: 100%;
+            color: #7a8387;}
+        #maket TD {padding: 5px;
+            vertical-align: top;
+            width: 200px;} 
+        #image_stretch {background-image:url(../images/image_stretch.jpg);
+            background-repeat:no-repeat;
+            background-size: 100%;
+            margin: 0;
+            padding-top: 100px;
+            padding-bottom: 20px;}
+        #button5 {font-family: 'ProximaNova Bold'; 
+            font-size: 90%;
+            color: #ffffff;
+            text-align: center;
+            border: 4px solid #40c4c8;
+            padding: 10px;
+            background-color: #40c4c8;
+            width: 100px;
+            margin-left: 600px;
+            margin-right: 570px;
+            margin-top: 100px;}
+        .title2 {font-family: 'Open Sans Light'; 
+            font-size: 150%;
+            color: #ffffff;
+            text-align: center;}
+        .title3 {font-family: 'Lato Regular'; 
+            font-size: 80%;
+            color: #ffffff;
+            text-align: center;
+            margin-bottom: 200px
+            margin-top: 2000px;}
+        #titleh {font-family: 'Lato Bold'; 
+            font-size: 150%;
+            color: #521a66;
+            text-align: center;
+            margin: 50px;}
+        #titlep {font-family: 'Lato Regular'; 
+            font-size: 90%;
+            color: #7a8387;
+            text-align: center;
+            margin: 20px;}
+        .columns {height: 200px;
+            width: 1240px;
+            background-color: #ffffff;
+            background-size: 100%;
+            margin-top: 100px;
+            margin-bottom: 70px;
+            text-align: center;}
+        #maket TD {padding: 20px; 
+            vertical-align: top; 
+            width: 350px;} 
+        .footerupper 
+            {background-image:url(../images/footerupper.jpg);
+            background-repeat:no-repeat;
+            background-size: 100%;
+            margin: 0;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            text-align: center;}
+        footer {background-image:url(../images/footer.jpg);
+            background-repeat:no-repeat;
+            background-size: 100%;
+            padding-top: 20px;
+            padding-bottom: 20px;}
+        .copyright {font-family: 'Lato Bold'; 
+            font-size: 90%;
+            color: #83969f;
+            margin-left: 200px;
+            float: left;}
+        .lora {font-family: 'Lato Regular';
+            font-size: 60%;
+            color: #83969f;
+            margin-left: 500px;}
+                      
